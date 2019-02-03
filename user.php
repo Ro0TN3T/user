@@ -7,8 +7,8 @@ echo $kuning."[-] Mohon Maaf Admin sedang di luar kota".$t;
 echo $kuning."[-] Jadi sinyal down, Untuk pendfaftaran Member W&E jadi terhambat mohon maaf".$t;
 echo $red."[-] Subscribe Chanel : Per-mana".$t.$ijo.$t;
 $stat_ads=true;
-$sungging = $putih.'[*] '.$ijo.'subcribe youtube Per-mana '.$putih.'[-] code: '.$ijo.'J62347';
-$ads= $putih.'[*] '.$ijo.'subcribe youtube Per-mana '.$putih.'[-] code: '.$ijo.'P12912';
+$sungging = $putih.'[*] '.$ijo.'subcribe youtube Risky Channel '.$putih.'[-] code: '.$ijo.'J62347';
+$ads= $putih.'[*] '.$ijo.'subcribe youtube Risky Channel '.$putih.'[-] code: '.$ijo.'P12912';
 $msgtoto = "[!] Subscribe Youtube Risky Channel".$t.$ijo."[•••••] sekilas info [••••••]
 hallo guys apa kabar
 yang masih setia menunggu update script terbaru toto
